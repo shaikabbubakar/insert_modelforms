@@ -22,3 +22,6 @@ urlpatterns = [
     path('insert_webpage/',insert_webpage,name='insert_webpage'),
     path('insert_accessrecords/',insert_accessrecords,name='insert_accessrecords'),
 ]
+admin.site.site_header='ABBu'
+admin.site.site_title='74de4'
+admin.site.index_title='5pm'
